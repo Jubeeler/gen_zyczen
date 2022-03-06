@@ -11,7 +11,8 @@ def generator_zyczen(imie):
     cecha3 = rnd.choice(lista_cech)
     lista_cech.remove(cecha3)
 
-    print("""%s
+    print("""
+    %s
 
     Dziękujemy Ci.
 
